@@ -1,2 +1,2 @@
-[![snova's github stats](https://github-readme-stats.vercel.app/api?username=zoniha&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![snova's github stats](https://github-readme-stats.vercel.app/api?username=zoniha&theme=gotham&show_icons=true&hide=stars,commits,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=gotham&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
