@@ -8,7 +8,7 @@ I'm Zawa from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![Python](https://img.shields.io/badge/-Python-F9DC3E?&style=flat&logo=python&logoColor=ffd700&color=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)
+&ensp;&ensp;&ensp; ![Python](https://img.shields.io/badge/-Python-F9DC3E?&style=flat&logo=python&logoColor=ffd700&color=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)
 
 🌌 I’m interested in things related to:
 
@@ -16,4 +16,4 @@ I'm Zawa from Japan!
 
 ☪️ I like to use these  tools:
 
-&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff) ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=Google%20Chrome&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=&color=460e44)
+&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=fff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff) ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=Google%20Chrome&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=&color=460e44)
