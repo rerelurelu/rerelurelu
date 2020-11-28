@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=react&langs_count=7&show_icons=true&hide_border=true&count_private=true&hide=ruby,jupyter%20notebook" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=react&langs_count=7&show_icons=true&hide_border=true&count_private=true&hide=css,ruby,jupyter%20notebook" />
 </a>
 
 ### Hello there 👋
