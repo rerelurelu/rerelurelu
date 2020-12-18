@@ -8,7 +8,7 @@ I'm Zawa from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![Python](https://img.shields.io/badge/-Python-F9DC3E?&style=flat&logo=python&logoColor=ffd700&color=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=Scala)
+&ensp;&ensp;&ensp; ![Python](https://img.shields.io/badge/-Python-F9DC3E?&style=flat&logo=python&logoColor=ffd700&color=blue) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript)
 
 🌌 I’m interested in things related to:
 
