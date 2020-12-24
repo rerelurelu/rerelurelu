@@ -4,15 +4,15 @@
 
 ### Hello there 👋
 
-I'm Zawa from Japan!
+I'm Zaw from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![Python](https://img.shields.io/badge/-Python-F9DC3E?&style=flat&logo=python&logoColor=ffd700&color=blue) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript)
+&ensp;&ensp;&ensp; ![Python](https://img.shields.io/badge/-Python-F9DC3E?&style=flat&logo=python&logoColor=ffd700&color=blue) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000)
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=orange&color=48046F) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&color=383c3c) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)
+&ensp;&ensp;&ensp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=orange&color=48046F) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=Ruby%20on%20Rails)
 
 ☪️ I like to use these  tools:
 
