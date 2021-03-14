@@ -12,7 +12,7 @@ I'm Zaw from Japan!
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=000) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby&logoColor=fff)
+&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
 
 ☪️ I like to use these  tools:
 
