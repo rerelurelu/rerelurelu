@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=react&langs_count=10&show_icons=true&hide_border=true&count_private=true&hide=css,html,jupyter%20notebook,dockerfile" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=midnight-purple&langs_count=10&show_icons=true&hide_border=true&count_private=true&hide=css,html,jupyter%20notebook,dockerfile" />
 </a>
 
 ### Hello there 👋
@@ -8,11 +8,11 @@ I'm Zaw from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff)
+&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Crystal](https://img.shields.io/badge/-Crystal-05141F?style=flat&logo=Crystal)
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
+&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=Gulp&logoColor=fff)
 
 ☪️ I like to use these  tools:
 
