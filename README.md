@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=midnight-purple&langs_count=10&show_icons=true&hide_border=true&count_private=true&hide=css,html,jupyter%20notebook,dockerfile" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=radical&langs_count=10&show_icons=true&hide_border=true&count_private=true&hide=css,html,jupyter%20notebook,dockerfile" />
 </a>
 
 ### Hello there 👋
@@ -8,7 +8,7 @@ I'm Zaw from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Crystal](https://img.shields.io/badge/-Crystal-05141F?style=flat&logo=Crystal)
+&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Crystal](https://img.shields.io/badge/-Crystal-000?style=flat&logo=Crystal)
 
 🌌 I’m interested in things related to:
 
