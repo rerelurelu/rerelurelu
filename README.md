@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=omni&langs_count=7&show_icons=true&hide_border=true&count_private=true&hide=css,html,jupyter%20notebook,less" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&theme=omni&langs_count=7&show_icons=true&hide_border=true&count_private=true&hide=css,html,jupyter%20notebook,less,dockerfile,shell" />
 </a>
 
 ### Hello there 👋
@@ -8,11 +8,11 @@ I'm Zaw from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Crystal](https://img.shields.io/badge/-Crystal-000?style=flat&logo=Crystal)
+&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart) ![Crystal](https://img.shields.io/badge/-Crystal-000?style=flat&logo=Crystal)
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
+&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
 
 ☪️ I like to use these  tools:
 
