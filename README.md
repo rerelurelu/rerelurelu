@@ -12,7 +12,7 @@ I'm Zaw from Japan!
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
+&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&color=fff) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
 
 ☪️ I like to use these  tools:
 
