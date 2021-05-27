@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&title_color=67b7b2&text_color=67b7b2&bg_color=7CC7E833&border_color=7CC7E8&langs_count=7&hide=css,html,jupyter%20notebook,less,dockerfile,shell" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&title_color=67b7b2&text_color=67b7b2&bg_color=7CC7E833&border_color=7CC7E8&langs_count=7&hide=css,html,jupyter%20notebook,less,dockerfile,shell,scss" />
 </a>
 
 ### Hello there 👋
