@@ -8,11 +8,11 @@ I'm Zaw from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart) ![Crystal](https://img.shields.io/badge/-Crystal-000?style=flat&logo=Crystal)
+&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart)
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&color=fff) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
+&ensp;&ensp;&ensp; ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&color=fff) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
 
 ☪️ I like to use these  tools:
 
