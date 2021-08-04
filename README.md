@@ -8,7 +8,7 @@ I'm Zaw from Japan!
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart)
+&ensp;&ensp;&ensp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=fff)
 
 🌌 I’m interested in things related to:
 
