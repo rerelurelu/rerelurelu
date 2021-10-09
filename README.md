@@ -12,8 +12,8 @@ I'm Zaw from Japan!
 
 🌌 I’m interested in things related to:
 
-&ensp;&ensp;&ensp; ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=FFF) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&color=fff) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
+&ensp;&ensp;&ensp; ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=FFF) ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&color=fff) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=fff)
 
-☪️ I like to use these  tools:
+☪️ I like to use these tools:
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff) ![Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat&logo=Microsoft%20Edge) ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=&color=460e44)
