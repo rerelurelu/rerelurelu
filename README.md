@@ -1,6 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoniha&title_color=00F1F9&text_color=00F1F9&bg_color=23232333&border_color=CC32F4&langs_count=7&hide=css,html,jupyter%20notebook,less,dockerfile,shell,scss&layout=compact" />
-</a>
+<img align="right" src="https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+<img align="right" src="https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
 
 <h3 style="color: #00F1F9;">Hello there 👋</h3>
 
@@ -17,3 +16,5 @@
 <p style="color: #00F1F9;"><span style="color: #CC32F4;">❖</span> I like to use these tools:</p>
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff) ![Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat&logo=Microsoft%20Edge) ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff)
+
+![](https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
