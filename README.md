@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/0-profile-details.svg'/>
+<img src='https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/0-profile-details.svg' width='100%'/>
 <div style='display: flex; flex-wrap:wrap;'>
 <img src='https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg' width='50%'/><img src='https://raw.githubusercontent.com/zoniha/profile-summary-card/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg' width='50%'/>
 </div>
