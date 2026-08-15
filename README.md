@@ -1,6 +1,6 @@
 ## 👋 Hello World
 
-Hi. I'm relu, a Frontend Developer, living in Tokyo now.
+Hi. I'm Relu, a Frontend Developer, living in Tokyo now.
 
 ## 💬 Language In use
 
